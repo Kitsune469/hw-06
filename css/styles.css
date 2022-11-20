@@ -587,6 +587,7 @@ address {
 }
 
 .sect {
+  margin-top: 0px;
   margin-bottom: 50px;
 
   font-size: 36px;
